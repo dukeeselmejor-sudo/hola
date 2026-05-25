@@ -14,13 +14,13 @@ const messages = [
 ];
 
 const photoUrls = [
-  'photos/foto1.png',
-  'photos/foto2.png',
-  'photos/foto3.jpeg',
-  'photos/foto4.jpeg',
-  'photos/foto5.jpeg',
-  'photos/image.png',
-  'photos/images.png'
+  'foto1.png',
+  'foto2.png',
+  'foto3.jpeg',
+  'foto4.jpeg',
+  'foto5.jpeg',
+  'image.png',
+  'images.png'
 ].map(src => encodeURI(src));
 
 let width = window.innerWidth;
